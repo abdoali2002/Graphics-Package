@@ -1,0 +1,11 @@
+C:\Users\Mezo\source\repos\Gr\Gr\obj\Debug\Gr.csproj.AssemblyReference.cache
+C:\Users\Mezo\source\repos\Gr\Gr\obj\Debug\Gr.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mezo\source\repos\Gr\Gr\obj\Debug\Gr.Form1.resources
+C:\Users\Mezo\source\repos\Gr\Gr\obj\Debug\Gr.Properties.Resources.resources
+C:\Users\Mezo\source\repos\Gr\Gr\obj\Debug\Gr.csproj.GenerateResource.cache
+C:\Users\Mezo\source\repos\Gr\Gr\obj\Debug\Gr.csproj.CoreCompileInputs.cache
+C:\Users\Mezo\source\repos\Gr\Gr\bin\Debug\Gr.exe.config
+C:\Users\Mezo\source\repos\Gr\Gr\bin\Debug\Gr.exe
+C:\Users\Mezo\source\repos\Gr\Gr\bin\Debug\Gr.pdb
+C:\Users\Mezo\source\repos\Gr\Gr\obj\Debug\Gr.exe
+C:\Users\Mezo\source\repos\Gr\Gr\obj\Debug\Gr.pdb
